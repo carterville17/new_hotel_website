@@ -1,2 +1,2 @@
-# new_hotel_website
+# hotel_website
 My first hotel built with javascript

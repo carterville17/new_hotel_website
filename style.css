@@ -1,0 +1,57 @@
+body {
+   background-color: rgb(241, 147, 147);
+}
+img {
+    width: 400px;
+    height: auto;
+}
+.RR {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 25px;
+    border: 0.5px solid;
+    background-color: pink;
+}
+.H {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(240, 242, 244);
+    border-radius: 25px;
+    border: 0.5px solid;
+    margin-bottom: 20px;
+}
+.logo-1 {
+    width: 100px;
+    border-radius: 15px;
+}
+.from {
+    color: white;
+    background-color: rgb(24, 188, 73);
+    border-radius: 5px;
+    border: none;
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+.from:hover {
+    opacity: 0.8;
+}
+.now {
+    color: white;
+    border: none;
+    background-color: rgb(200, 0,0);
+    border-radius: 2px;
+    height: 23px;
+    cursor: pointer;
+}
+.now:hover {
+    opacity: 0.7;
+}
+footer {
+    border-top: 1px solid;
+    padding-top: 20px;
+    height: auto;
+    padding: 0.9px;
+}
